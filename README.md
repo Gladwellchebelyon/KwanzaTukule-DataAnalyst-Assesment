@@ -129,10 +129,11 @@ Created using Tableau:
 
 ## Usage
 1. Open the Jupyter notebooks to explore the analysis:
-    - [Data Cleaning and Preparation.ipynb](http://_vscodecontentref_/0)
-    - [Exploratory Data Analysis.ipynb](http://_vscodecontentref_/1)
-    - [Open Ended Problem.ipynb](http://_vscodecontentref_/2)
+   
 2. Run the notebooks step-by-step to reproduce the analysis and visualizations.
 
+3. Open Tableau link for more visualization and insights 
+   - https://public.tableau.com/views/TableauSalesPerformanceOverview/SalesPerformanceOverview?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+   
 ## License
 This project is licensed under the terms of the GNU General Public License v3.0. See the [LICENSE](http://_vscodecontentref_/3) file for details.
