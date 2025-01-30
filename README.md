@@ -2,6 +2,9 @@
 
 # Sales Data Analysis Project
 
+                                   ![image](https://github.com/user-attachments/assets/50d27a52-cfeb-4e3d-912c-08aa09983dfb)
+
+
 ## Overview
 This project involves a comprehensive analysis of sales transaction data from 2024, focusing on identifying business insights, patterns, and strategic recommendations. The analysis includes sales trends, anomaly detection, customer behavior, and predictive analytics.
 
