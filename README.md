@@ -1,6 +1,7 @@
 # KwanzaTukule-DataAnalyst-Assessment
 
 # Sales Data Analysis Project
+This project was conducted as part of the Kwanza Tukule Data Analyst Assessment. The goal is to analyze 2024 sales data, detect trends and anomalies, and provide actionable insights for business decision-making.
 
 ![image](https://github.com/user-attachments/assets/72535966-9a1a-4c2d-9e9f-66e3a608f734)
 
@@ -132,11 +133,15 @@ Created using Tableau:
 
 ## Usage
 1. Open the Jupyter notebooks to explore the analysis:
-   
-2. Run the notebooks step-by-step to reproduce the analysis and visualizations.
+ - `data_cleaning.ipynb` → Handles data quality checks and preprocessing.
+- `EDA.ipynb` → Exploratory data analysis and visualizations.
+- `section 3.ipynb` → Handles  sales prediction.
 
-3. Open Tableau link for more visualization and insights 
-   - https://public.tableau.com/views/TableauSalesPerformanceOverview/SalesPerformanceOverview?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
    
+3. Run the notebooks step-by-step to reproduce the analysis and visualizations.
+
+4. Open Tableau link for more visualization and insights 
+   - [Tableau Dashboard](https://public.tableau.com/views/TableauSalesPerformanceOverview/SalesPerformanceOverview?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ## License
 This project is licensed under the terms of the GNU General Public License v3.0. See the [LICENSE](http://_vscodecontentref_/3) file for details.
