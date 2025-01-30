@@ -116,7 +116,7 @@ Created using Tableau:
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone <repository-url>
+    git clone <https://github.com/Gladwellchebelyon/KwanzaTukule-DataAnalyst-Assesment>
     ```
 2. Navigate to the project directory:
     ```sh
