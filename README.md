@@ -2,7 +2,7 @@
 
 # Sales Data Analysis Project
 
-                                   ![image](https://github.com/user-attachments/assets/50d27a52-cfeb-4e3d-912c-08aa09983dfb)
+![image](https://github.com/user-attachments/assets/72535966-9a1a-4c2d-9e9f-66e3a608f734)
 
 
 ## Overview
